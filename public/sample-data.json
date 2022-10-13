@@ -1,0 +1,34 @@
+{
+  "title": "Board Title",
+  "last_modified": "",
+  "containers": [
+    {
+      "id": 0,
+      "name": "Introduction",
+      "is_editing_container": false,
+      "is_adding_card": false
+    },
+    {
+      "id": 2,
+      "name": "Todo",
+      "is_editing_container": false,
+      "is_adding_card": false
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "id_container": 1,
+      "title": "",
+      "content": "",
+      "is_editing_card": false
+    },
+    {
+      "id": 2,
+      "id_container": 1,
+      "title": "",
+      "content": "",
+      "is_editing_card": false
+    }
+  ]
+}
